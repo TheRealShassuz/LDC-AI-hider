@@ -6,7 +6,8 @@ Hur använder jag och installerar jag programmet?
 Detta program är skrivet i Python, vilket som är ett av de tusen olika språk för att tala om för en dator att göra en viss sak. Detta program kräver då att du har Python installerat på din dator. Om du känner att detta är för nördigt för dig, så finns en färdig zip fil för Windows med allt du behöver. 
 Om du känner att du vill gå "FULL HACKER MOMENT", så installerar du den senaste versionen av Python från https://www.python.org/
 . När du väl har Python installerat behöver du öppna upp din terminal. Detta är steget du kommer känna dig som en riktigt hacker, och få dig att tro att du just har hackat Nasa, men riktigt så är det inte. Om du använder Windows ska du använda PowerShell, om du är "Pappa betalar för min dator" användare (Mac användare), använder du dig av terminalen i MacOS. Är du Linux användare så förstår jag inte ens varför jag behöver förklara dessa steg.
-När du väl är i din terminal ska du skriva följande "pip install googletrans". Detta installerar det extra nödvändiga koden för att programmet ska fungera. När detta är klart så bör det bara vara att klicka på "LDC AI hider.py" (om nu inte Windows som vanligt kräver dig att starta om din dator). 
+När du väl är i din terminal ska du skriva följande "pip install googletrans==4.0.0-rc1
+". Detta installerar det extra nödvändiga koden för att programmet ska fungera. När detta är klart så bör det bara vara att klicka på "LDC AI hider.py" (om nu inte Windows som vanligt kräver dig att starta om din dator). 
 
 Programmet är just nu terminalbaserat. Detta innebär att du enbart kommer se text. Inga stilrena knappar, bilder, videos på Rick Ashley, m.m.
 Om du känner att detta är för komplicerat för dig. Jobba bara med din uppgift istället för att försöka installera ett program bara för att vara lat.
